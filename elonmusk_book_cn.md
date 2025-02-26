@@ -1,0 +1,556 @@
+- Meta:
+  - title: 埃隆·马斯克传 (【美】沃尔特·艾萨克 著  孙思远 刘家琦 译) (Z-Library)
+  - author: 【美】沃尔特·艾萨克森
+  - tags: #Books
+- # Raw Highlights & Notes:
+  - ## 07 女王大学 安大略省金斯顿，1990—1991年
+    - 
+      - Highlight( yellow ) - Page 56 · Location 683
+  - ## 08 宾夕法尼亚大学 费城，1992—1994年
+    - 
+      - Highlight( yellow ) - Page 59 · Location 703
+    - 
+      - Highlight( yellow ) - Page 60 · Location 709
+    - 
+      - Highlight( yellow ) - Page 62 · Location 743
+  - ## 09 到西部去 硅谷，1994—1995年
+    - 
+      - Highlight( yellow ) - Page 64 · Location 754
+    - 
+      - Highlight( yellow ) - Page 66 · Location 778
+    - 
+      - Highlight( yellow ) - Page 66 · Location 779
+    - 
+      - Highlight( yellow ) - Page 67 · Location 802
+    - 
+      - Highlight( yellow ) - Page 67 · Location 804
+    - 
+      - Highlight( yellow ) - Page 68 · Location 814
+  - ## 10 Zip2 帕洛阿尔托，1995—1999年
+    - 
+      - Highlight( yellow ) - Page 70 · Location 836
+    - 
+      - Highlight( yellow ) - Page 71 · Location 840
+    - 
+      - Highlight( yellow ) - Page 71 · Location 851
+    - 
+      - Highlight( yellow ) - Page 73 · Location 875
+    - 
+      - Highlight( yellow ) - Page 73 · Location 885
+    - 
+      - Highlight( yellow ) - Page 73 · Location 886
+    - 
+      - Highlight( yellow ) - Page 74 · Location 892
+    - 
+      - Highlight( yellow ) - Page 74 · Location 893
+    - 
+      - Highlight( yellow ) - Page 74 · Location 901
+    - 
+      - Highlight( yellow ) - Page 75 · Location 909
+  - ## 11 贾丝廷 帕洛阿尔托，20世纪90年代
+    - 
+      - Highlight( yellow ) - Page 78 · Location 943
+    - 
+      - Highlight( yellow ) - Page 78 · Location 953
+    - 
+      - Highlight( yellow ) - Page 79 · Location 957
+    - 
+      - Highlight( yellow ) - Page 79 · Location 969
+    - 
+      - Highlight( yellow ) - Page 80 · Location 979
+  - ## 12 X.com 帕洛阿尔托，1999—2000年
+    - 
+      - Highlight( yellow ) - Page 84 · Location 1018
+    - 
+      - Highlight( yellow ) - Page 84 · Location 1019
+    - 
+      - Highlight( yellow ) - Page 84 · Location 1022
+    - 
+      - Highlight( yellow ) - Page 85 · Location 1029
+    - 
+      - Highlight( yellow ) - Page 86 · Location 1041
+    - 
+      - Highlight( yellow ) - Page 86 · Location 1050
+    - 
+      - Highlight( yellow ) - Page 88 · Location 1072
+    - 
+      - Highlight( yellow ) - Page 90 · Location 1109
+    - 
+      - Highlight( yellow ) - Page 91 · Location 1134
+  - ## 13 反抗者联盟 PayPal，2000年9月
+    - 
+      - Highlight( yellow ) - Page 94 · Location 1148
+    - 
+      - Highlight( yellow ) - Page 95 · Location 1173
+    - 
+      - Highlight( yellow ) - Page 96 · Location 1174
+    - 
+      - Highlight( yellow ) - Page 97 · Location 1198
+    - 
+      - Highlight( yellow ) - Page 97 · Location 1200
+    - 
+      - Highlight( yellow ) - Page 98 · Location 1219
+    - 
+      - Highlight( yellow ) - Page 99 · Location 1223
+  - ## 14 火星 SpaceX，2001年
+    - 
+      - Highlight( yellow ) - Page 104 · Location 1286
+    - 
+      - Highlight( yellow ) - Page 104 · Location 1289
+    - 
+      - Highlight( yellow ) - Page 104 · Location 1300
+    - 
+      - Highlight( yellow ) - Page 105 · Location 1309
+    - 
+      - Highlight( yellow ) - Page 105 · Location 1312
+  - ## 15 火箭人 SpaceX，2002年
+    - 
+      - Highlight( yellow ) - Page 110 · Location 1372
+    - 
+      - Highlight( yellow ) - Page 112 · Location 1393
+    - 
+      - Highlight( yellow ) - Page 112 · Location 1396
+    - 
+      - Highlight( yellow ) - Page 112 · Location 1400
+  - ## 16 父父子子 洛杉矶，2002年
+    - 
+      - Highlight( yellow ) - Page 116 · Location 1435
+  - ## 17 加速启动 SpaceX，2002年
+    - 
+      - Highlight( yellow ) - Page 121 · Location 1501
+    - 
+      - Highlight( yellow ) - Page 123 · Location 1520
+    - 
+      - Highlight( yellow ) - Page 123 · Location 1521
+  - ## 18 火箭制造法 SpaceX，2002—2003年
+    - 
+      - Highlight( yellow ) - Page 125 · Location 1546
+    - 
+      - Highlight( yellow ) - Page 125 · Location 1556
+    - 
+      - Highlight( yellow ) - Page 126 · Location 1564
+    - 
+      - Highlight( yellow ) - Page 126 · Location 1566
+    - 
+      - Highlight( yellow ) - Page 126 · Location 1572
+    - 
+      - Highlight( yellow ) - Page 126 · Location 1574
+    - 
+      - Highlight( yellow ) - Page 127 · Location 1584
+    - 
+      - Highlight( yellow ) - Page 129 · Location 1623
+    - 
+      - Highlight( yellow ) - Page 130 · Location 1635
+    - 
+      - Highlight( yellow ) - Page 130 · Location 1636
+  - ## 19 前往华盛顿 SpaceX，2002—2003年
+    - 
+      - Highlight( yellow ) - Page 134 · Location 1670
+    - 
+      - Highlight( yellow ) - Page 137 · Location 1710
+    - 
+      - Highlight( yellow ) - Page 138 · Location 1736
+  - ## 20 联合创始人 特斯拉，2003—2004年
+    - 
+      - Highlight( yellow ) - Page 142 · Location 1783
+    - 
+      - Highlight( yellow ) - Page 144 · Location 1813
+  - ## 21 Roadster 特斯拉，2004—2006年
+    - 
+      - Highlight( yellow ) - Page 147 · Location 1847
+    - 
+      - Highlight( yellow ) - Page 151 · Location 1906
+    - 
+      - Highlight( yellow ) - Page 159 · Location 2038
+  - ## 22 夸贾林岛 SpaceX，2005—2006年
+    - 
+      - Highlight( yellow ) - Page 165 · Location 2116
+    - 
+      - Highlight( yellow ) - Page 165 · Location 2122
+  - ## 23 两次发射 夸贾林岛，2006—2007年
+    - 
+      - Highlight( yellow ) - Page 170 · Location 2177
+  - ## 24 工业奇兵 特斯拉，2006—2008年
+    - 
+      - Highlight( yellow ) - Page 176 · Location 2251
+    - 
+      - Highlight( yellow ) - Page 176 · Location 2255
+  - ## 25 亲自掌舵 特斯拉，2007—2008年
+    - 
+      - Highlight( yellow ) - Page 182 · Location 2326
+    - 
+      - Highlight( yellow ) - Page 184 · Location 2365
+    - 
+      - Highlight( yellow ) - Page 185 · Location 2373
+    - 
+      - Highlight( yellow ) - Page 185 · Location 2375
+    - 
+      - Highlight( yellow ) - Page 185 · Location 2379
+    - 
+      - Highlight( yellow ) - Page 185 · Location 2380
+    - 
+      - Highlight( yellow ) - Page 186 · Location 2396
+    - 
+      - Highlight( yellow ) - Page 187 · Location 2406
+  - ## 26 离婚 2008年
+    - 
+      - Highlight( yellow ) - Page 189 · Location 2419
+    - 
+      - Highlight( yellow ) - Page 189 · Location 2425
+    - 
+      - Highlight( yellow ) - Page 190 · Location 2441
+    - 
+      - Highlight( yellow ) - Page 191 · Location 2446
+  - ## 28 第三次试射 夸贾林岛，2008年8月3日
+    - 
+      - Highlight( yellow ) - Page 199 · Location 2532
+  - ## 30 第四次发射 夸贾林岛，2008年8—9月
+    - 
+      - Highlight( yellow ) - Page 206 · Location 2610
+    - 
+      - Highlight( yellow ) - Page 210 · Location 2683
+  - ## 32 Model S 特斯拉，2009年
+    - 
+      - Highlight( yellow ) - Page 223 · Location 2851
+    - 
+      - Highlight( yellow ) - Page 224 · Location 2861
+    - 
+      - Highlight( yellow ) - Page 225 · Location 2875
+  - ## 33 私营太空事业 SpaceX，2009—2010年
+    - 
+      - Highlight( yellow ) - Page 229 · Location 2928
+    - 
+      - Highlight( yellow ) - Page 231 · Location 2960
+  - ## 36 制造业 特斯拉，2010—2013年
+    - 
+      - Highlight( yellow ) - Page 243 · Location 3092
+    - 
+      - Highlight( yellow ) - Page 243 · Location 3096
+    - 
+      - Highlight( yellow ) - Page 246 · Location 3130
+  - ## 37 马斯克和贝索斯 SpaceX，2013—2014年
+    - 
+      - Highlight( yellow ) - Page 252 · Location 3226
+  - ## 38 猎鹰听到了训鹰人的呼唤 SpaceX，2014—2015年
+    - 
+      - Highlight( yellow ) - Page 256 · Location 3269
+  - ## 39 婚变 2012—2015年
+    - 
+      - Highlight( yellow ) - Page 262 · Location 3351
+  - ## 40 人工智能 OpenAI，2012—2015年
+    - 
+      - Highlight( yellow ) - Page 266 · Location 3397
+    - 
+      - Highlight( yellow ) - Page 266 · Location 3399
+    - 
+      - Highlight( yellow ) - Page 266 · Location 3408
+    - 
+      - Highlight( yellow ) - Page 267 · Location 3412
+    - 
+      - Highlight( yellow ) - Page 268 · Location 3430
+    - 
+      - Highlight( yellow ) - Page 268 · Location 3432
+    - 
+      - Highlight( yellow ) - Page 268 · Location 3438
+    - 
+      - Highlight( yellow ) - Page 268 · Location 3441
+    - 
+      - Highlight( yellow ) - Page 268 · Location 3444
+  - ## 41 推出自动驾驶系统 特斯拉，2014—2016年
+    - 
+      - Highlight( yellow ) - Page 272 · Location 3472
+    - 
+      - Highlight( yellow ) - Page 272 · Location 3483
+    - 
+      - Highlight( yellow ) - Page 274 · Location 3508
+    - 
+      - Highlight( yellow ) - Page 274 · Location 3517
+    - 
+      - Highlight( yellow ) - Page 275 · Location 3524
+    - 
+      - Highlight( yellow ) - Page 276 · Location 3544
+  - ## 42 太阳能 特斯拉能源，2004—2016年
+    - 
+      - Highlight( yellow ) - Page 278 · Location 3558
+    - 
+      - Highlight( yellow ) - Page 279 · Location 3577
+    - 
+      - Highlight( yellow ) - Page 279 · Location 3579
+  - ## 44 关系动荡 2016—2017年
+    - 
+      - Highlight( yellow ) - Page 289 · Location 3707
+    - 
+      - Highlight( yellow ) - Page 294 · Location 3773
+  - ## 45 堕入黑暗 2017年
+    - 
+      - Highlight( yellow ) - Page 298 · Location 3826
+    - 
+      - Highlight( yellow ) - Page 298 · Location 3835
+    - 
+      - Highlight( yellow ) - Page 298 · Location 3837
+    - 
+      - Highlight( yellow ) - Page 299 · Location 3840
+    - 
+      - Highlight( yellow ) - Page 299 · Location 3848
+    - 
+      - Highlight( yellow ) - Page 301 · Location 3872
+  - ## 46 弗里蒙特工厂地狱 特斯拉，2018年
+    - 
+      - Highlight( yellow ) - Page 308 · Location 3954
+    - 
+      - Highlight( yellow ) - Page 308 · Location 3967
+    - 
+      - Highlight( yellow ) - Page 310 · Location 3996
+    - 
+      - Highlight( yellow ) - Page 311 · Location 4002
+    - 
+      - Highlight( yellow ) - Page 311 · Location 4011
+    - 
+      - Highlight( yellow ) - Page 313 · Location 4033
+    - 
+      - Highlight( yellow ) - Page 313 · Location 4043
+    - 
+      - Highlight( yellow ) - Page 315 · Location 4071
+    - 
+      - Highlight( yellow ) - Page 315 · Location 4075
+    - 
+      - Highlight( yellow ) - Page 315 · Location 4076
+    - 
+      - Highlight( yellow ) - Page 316 · Location 4077
+    - 
+      - Highlight( yellow ) - Page 316 · Location 4078
+    - 
+      - Highlight( yellow ) - Page 316 · Location 4081
+  - ## 47 开环警告 2018年
+    - 
+      - Highlight( yellow ) - Page 319 · Location 4094
+    - 
+      - Highlight( yellow ) - Page 322 · Location 4141
+    - 
+      - Highlight( yellow ) - Page 323 · Location 4162
+  - ## 48 余波未了 2018年
+    - 
+      - Highlight( yellow ) - Page 329 · Location 4238
+    - 
+      - Highlight( yellow ) - Page 332 · Location 4288
+  - ## 49 格莱姆斯 2018年
+    - 
+      - Highlight( yellow ) - Page 345 · Location 4477
+  - ## 56 家庭生活 2020年
+    - 
+      - Highlight( yellow ) - Page 379 · Location 4895
+  - ## 57 全速前进 SpaceX，2020年
+    - 
+      - Highlight( yellow ) - Page 387 · Location 5019
+    - 
+      - Highlight( yellow ) - Page 387 · Location 5024
+    - 
+      - Highlight( yellow ) - Page 389 · Location 5042
+  - ## 59 星舰狂飙 SpaceX，2021年7月
+    - 
+      - Highlight( yellow ) - Page 401 · Location 5207
+    - 
+      - Highlight( yellow ) - Page 404 · Location 5247
+    - 
+      - Highlight( yellow ) - Page 406 · Location 5274
+    - 
+      - Highlight( yellow ) - Page 406 · Location 5284
+    - 
+      - Highlight( yellow ) - Page 407 · Location 5292
+    - 
+      - Highlight( yellow ) - Page 408 · Location 5310
+    - 
+      - Highlight( yellow ) - Page 410 · Location 5334
+  - ## 61 夜间活动 2021年夏
+    - 
+      - Highlight( yellow ) - Page 419 · Location 5440
+  - ## 62 灵感4号 SpaceX，2021年9月
+    - 
+      - Highlight( yellow ) - Page 430 · Location 5600
+  - ## 63 猛禽升级 SpaceX，2021年
+    - 
+      - Highlight( yellow ) - Page 432 · Location 5617
+    - 
+      - Highlight( yellow ) - Page 435 · Location 5658
+    - 
+      - Highlight( yellow ) - Page 435 · Location 5662
+    - 
+      - Highlight( yellow ) - Page 435 · Location 5667
+    - 
+      - Highlight( yellow ) - Page 435 · Location 5672
+    - 
+      - Highlight( yellow ) - Page 436 · Location 5677
+    - 
+      - Highlight( yellow ) - Page 436 · Location 5682
+  - ## 64 Optimus诞生 特斯拉，2021年8月
+    - 
+      - Highlight( yellow ) - Page 439 · Location 5705
+    - 
+      - Highlight( yellow ) - Page 439 · Location 5707
+    - 
+      - Highlight( yellow ) - Page 439 · Location 5713
+    - 
+      - Highlight( yellow ) - Page 441 · Location 5730
+    - 
+      - Highlight( yellow ) - Page 441 · Location 5736
+    - 
+      - Highlight( yellow ) - Page 442 · Location 5756
+  - ## 65 Neuralink 2017—2020年
+    - 
+      - Highlight( yellow ) - Page 446 · Location 5766
+    - 
+      - Highlight( yellow ) - Page 447 · Location 5784
+    - 
+      - Highlight( yellow ) - Page 448 · Location 5809
+    - 
+      - Highlight( yellow ) - Page 449 · Location 5820
+    - 
+      - Highlight( yellow ) - Page 449 · Location 5822
+    - 
+      - Highlight( yellow ) - Page 450 · Location 5838
+  - ## 66 纯视觉 特斯拉，2021年1月
+    - 
+      - Highlight( yellow ) - Page 452 · Location 5861
+    - 
+      - Highlight( yellow ) - Page 453 · Location 5875
+    - 
+      - Highlight( yellow ) - Page 454 · Location 5885
+    - 
+      - Highlight( yellow ) - Page 454 · Location 5888
+  - ## 67 财富 2021—2022年
+    - 
+      - Highlight( yellow ) - Page 457 · Location 5934
+    - 
+      - Highlight( yellow ) - Page 457 · Location 5935
+  - ## 68 年度父亲 2021年
+    - 
+      - Highlight( yellow ) - Page 460 · Location 5965
+    - 
+      - Highlight( yellow ) - Page 464 · Location 6012
+  - ## 69 善变 2020—2022年
+    - 
+      - Highlight( yellow ) - Page 465 · Location 6019
+    - 
+      - Highlight( yellow ) - Page 465 · Location 6025
+    - 
+      - Highlight( yellow ) - Page 467 · Location 6055
+    - 
+      - Highlight( yellow ) - Page 467 · Location 6059
+    - 
+      - Highlight( yellow ) - Page 473 · Location 6153
+    - 
+      - Highlight( yellow ) - Page 475 · Location 6198
+    - 
+      - Highlight( yellow ) - Page 476 · Location 6201
+    - 
+      - Highlight( yellow ) - Page 476 · Location 6203
+    - 
+      - Highlight( yellow ) - Page 476 · Location 6205
+    - 
+      - Highlight( yellow ) - Page 476 · Location 6206
+    - 
+      - Highlight( yellow ) - Page 476 · Location 6210
+    - 
+      - Highlight( yellow ) - Page 476 · Location 6211
+    - 
+      - Highlight( yellow ) - Page 476 · Location 6213
+    - 
+      - Highlight( yellow ) - Page 476 · Location 6215
+    - 
+      - Highlight( yellow ) - Page 477 · Location 6219
+  - ## 70 支持和平 2022年
+    - 
+      - Highlight( yellow ) - Page 478 · Location 6231
+    - 
+      - Highlight( yellow ) - Page 479 · Location 6247
+    - 
+      - Highlight( yellow ) - Page 481 · Location 6276
+    - 
+      - Highlight( yellow ) - Page 484 · Location 6329
+    - 
+      - Highlight( yellow ) - Page 484 · Location 6331
+  - ## 71 比尔·盖茨 2022年
+    - 
+      - Highlight( yellow ) - Page 487 · Location 6354
+  - ## 72 积极的投资者 推特，2022年1—4月
+    - 
+      - Highlight( yellow ) - Page 494 · Location 6437
+    - 
+      - Highlight( yellow ) - Page 496 · Location 6478
+    - 
+      - Highlight( yellow ) - Page 497 · Location 6492
+    - 
+      - Highlight( yellow ) - Page 498 · Location 6501
+  - ## 73 “我提出了报价” 推特，2022年4月
+    - 
+      - Highlight( yellow ) - Page 503 · Location 6581
+    - 
+      - Highlight( yellow ) - Page 511 · Location 6691
+    - 
+      - Highlight( yellow ) - Page 511 · Location 6699
+  - ## 76 星际基地动荡 SpaceX，2022年
+    - 
+      - Highlight( yellow ) - Page 532 · Location 6988
+    - 
+      - Highlight( yellow ) - Page 534 · Location 7017
+  - ## 77 Optimus 特斯拉，2021—2022年
+    - 
+      - Highlight( yellow ) - Page 544 · Location 7152
+  - ## 79 Optimus亮相 特斯拉，2022年9月
+    - 
+      - Highlight( yellow ) - Page 557 · Location 7322
+    - 
+      - Highlight( yellow ) - Page 558 · Location 7337
+    - 
+      - Highlight( yellow ) - Page 558 · Location 7339
+    - 
+      - Highlight( yellow ) - Page 559 · Location 7343
+    - 
+      - Highlight( yellow ) - Page 559 · Location 7344
+  - ## 81 “我可把水槽抱进来啦！” 推特，2022年10月26—27日
+    - 
+      - Highlight( yellow ) - Page 568 · Location 7470
+  - ## 82 接管 推特，2022年10月27日
+    - 
+      - Highlight( yellow ) - Page 575 · Location 7551
+  - ## 86 蓝色对钩 推特，2022年11月2—10日
+    - 
+      - Highlight( yellow ) - Page 609 · Location 8010
+    - 
+      - Highlight( yellow ) - Page 609 · Location 8012
+    - 
+      - Highlight( yellow ) - Page 609 · Location 8013
+    - 
+      - Highlight( yellow ) - Page 613 · Location 8075
+  - ## 87 全力以赴 推特，2022年11月10—18日
+    - 
+      - Highlight( yellow ) - Page 615 · Location 8087
+    - 
+      - Highlight( yellow ) - Page 617 · Location 8116
+    - 
+      - Highlight( yellow ) - Page 618 · Location 8134
+    - 
+      - Highlight( yellow ) - Page 618 · Location 8136
+  - ## 88 硬核 推特，2022年11月18—30日
+    - 
+      - Highlight( yellow ) - Page 623 · Location 8204
+    - 
+      - Highlight( yellow ) - Page 624 · Location 8216
+  - ## 90 “推特文件” 推特，2022年12月
+    - 
+      - Highlight( yellow ) - Page 640 · Location 8429
+    - 
+      - Highlight( yellow ) - Page 640 · Location 8430
+  - ## 93 车用人工智能 特斯拉，2022—2023年
+    - 
+      - Highlight( yellow ) - Page 668 · Location 8831
+  - ## 94 人工智能为人类服务 X.AI，2023年
+    - 
+      - Highlight( yellow ) - Page 673 · Location 8897
+    - 
+      - Highlight( yellow ) - Page 677 · Location 8960
+  - ## 95 星舰发射 SpaceX，2023年4月
+    - 
+      - Highlight( yellow ) - Page 683 · Location 9026
+    - 
+      - Highlight( yellow ) - Page 689 · Location 9121
